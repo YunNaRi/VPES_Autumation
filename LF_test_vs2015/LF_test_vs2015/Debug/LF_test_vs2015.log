@@ -1,4 +1,0 @@
-﻿  LF_test.c
-c:\users\nryun\desktop\새 폴더 (3)\lf_test_vs2015\lf_test_vs2015\lf_test.c(7): warning C4013: 'test'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
-  LF_test_vs2015.vcxproj -> C:\Users\nryun\Desktop\새 폴더 (3)\LF_test_vs2015\Debug\LF_test_vs2015.exe
-  LF_test_vs2015.vcxproj -> C:\Users\nryun\Desktop\새 폴더 (3)\LF_test_vs2015\Debug\LF_test_vs2015.pdb (Partial PDB)

@@ -1,6 +1,0 @@
-[
-  {
-    NAME: Default
-    SOURCES: []
-  }
-]

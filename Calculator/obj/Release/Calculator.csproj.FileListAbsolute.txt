@@ -1,5 +1,0 @@
-D:\DIRECTORY\Calculator CSharp-master\obj\Release\Calculator.AboutBox2.resources
-D:\DIRECTORY\Calculator CSharp-master\obj\Release\Calculator.Calculator.resources
-D:\DIRECTORY\Calculator CSharp-master\obj\Release\Calculator.Properties.Resources.resources
-D:\DIRECTORY\Calculator CSharp-master\obj\Release\Calculator.csproj.GenerateResource.cache
-D:\DIRECTORY\Calculator CSharp-master\obj\Release\Calculator.csproj.CoreCompileInputs.cache

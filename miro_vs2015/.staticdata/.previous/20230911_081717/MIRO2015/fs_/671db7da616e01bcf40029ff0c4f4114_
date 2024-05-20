@@ -1,2 +1,0 @@
-extern unsigned char SURESOFT_CODESCROLL_STATIC_DUMMY_VARIABLE_cpp;
-extern unsigned int codescroll_built_in_line_macro;

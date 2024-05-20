@@ -1,7 +1,0 @@
-exec-+-12-+-11-+-D:\VPES_GIT\git\VPES_Autumation\CRLF_test_vs2015\CRLF_test_vs2015-+-C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe-+-"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\x86_amd64\CL.exe" /c /ZI /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"x64\Debug\\" /Fd"x64\Debug\vc140.pdb" /Gd /TC /errorReport:queue CRLF_test.c  
-open-+-12-+-11-+-C:\Users\nryun\AppData\Local\Microsoft\VSCommon\14.0\SQM\sqmcpp.log
-open-+-12-+-11-+-D:\VPES_GIT\git\VPES_Autumation\CRLF_test_vs2015\CRLF_test_vs2015\CRLF_test.c
-open-+-12-+-11-+-D:\VPES_GIT\git\VPES_Autumation\CRLF_test_vs2015\CRLF_test_vs2015\x64\Debug\vc140.idb
-open-+-12-+-11-+-C:\Users\nryun\AppData\Local\Temp\{F3E25145-E676-48E1-903F-35A32EFAB661}
-open-+-12-+-11-+-D:\VPES_GIT\git\VPES_Autumation\CRLF_test_vs2015\CRLF_test_vs2015\x64\Debug\vc140.pdb
-open-+-12-+-11-+-C:\Users\nryun\AppData\Local\Temp\tmpbff29c3a85d14f459bf774a56357ef58.tmp
