@@ -1,0 +1,16 @@
+{
+    "3": {
+        "execve": [
+            "C:\\MinGW\\bin\\gcc.exe",
+            [
+                "gcc",
+                "-c",
+                "D:\\VPES_Automation\\VPES_Automation\\src\\DIRECTORT\\new_test_gcc\\test.cpp"
+            ],
+            "D:\\VPES_Automation\\VPES_Automation\\src\\DIRECTORT\\new_test_gcc"
+        ],
+        "open": [
+            "D:\\VPES_Automation\\VPES_Automation\\src\\DIRECTORT\\new_test_gcc\\test.cpp"
+        ]
+    }
+}

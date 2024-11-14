@@ -1,0 +1,53 @@
+{
+  "REANALYZE": false,
+  "STATIC_SERVER_ADDRESS": "10.10.111.17",
+  "STATIC_SERVER_PORT": 80,
+  "TOOLCHAIN_FILENAME": "parser.sconf",
+  "PROJECT_KEY": "GCCTEST",
+  "WORKING_DIR": "D:\\VPES_Automation\\VPES_Automation\\src\\DIRECTORT\\new_test_gcc\\.staticdata",
+  "COMMAND": [],
+  "STATICFILE_DIR_PATH": "D:\\VPES_Automation\\VPES_Automation\\src\\DIRECTORT\\new_test_gcc",
+  "PARSING": {
+    "C": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    },
+    "CPP": {
+      "include": [],
+      "conf": [],
+      "removes": []
+    }
+  },
+  "COMPILER_INSTALLATION_PATH": [],
+  "USER_DEFINED_EXTENSIONS": {
+    "header": [],
+    "source": [],
+    "object": []
+  },
+  "INCLUDE_GNU_PREINCLUDE": false,
+  "EXCLUSIONS": [],
+  "EXTRA_OPTIONS": {
+    "ASSIGN_TO_COMMITTER": {
+      "enable": false,
+      "path_replace_map": [
+        {
+          "from": "",
+          "to": ""
+        }
+      ]
+    },
+    "TOOLCHAIN_COMPILER_PREFIX": "",
+    "MODULE_WHITELIST_FOR_ANALYZE": [],
+    "USER_DEFINED_ENVIRONMENTS": {
+      "CSBUILD_ENVIRONMENT_EXAMPLE": "EXAMPLE"
+    },
+    "LANGUAGE_EXTENSION_PAIR": {
+      "C": [],
+      "CPP": []
+    },
+    "SPECIFIED_ANALYSIS_AGENT_VERSION": "",
+    "USE_CAPTURE_BATCH": true,
+    "split_project_mode": false
+  }
+}

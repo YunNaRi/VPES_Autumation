@@ -1,0 +1,40 @@
+(22444)(    1)ME: C:\Windows\system32\cmd.exe
+(22444)(    1) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(22444)(    1) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(22444) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(22444)(    1) + Ignored EXENAME: cmd
+( 4528)(    2)ME: C:\Windows\system32\chcp.com
+( 4528)(    2) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+( 4528)(    2) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+( 4528) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 4528)(    2) + Ignored EXENAME: chcp
+(33120)(    4)ME: c:\mingw\bin\..\libexec\gcc\mingw32\9.2.0\cc1plus.exe
+(33120)(    4) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(33120)(    4) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(33120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(33120)(    4)ME: c:\mingw\bin\..\libexec\gcc\mingw32\9.2.0\cc1plus.exe
+(33120)(    4) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(33120)(    4) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(33120) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 8380)(    5)ME: c:\mingw\bin\..\lib\gcc\mingw32\9.2.0\..\..\..\..\mingw32\bin\as.exe
+( 8380)(    5) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+( 8380)(    5) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+( 8380) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+( 8380)(    5) + Ignored EXENAME: as
+( 8380)(    5)ME: c:\mingw\bin\..\lib\gcc\mingw32\9.2.0\..\..\..\..\mingw32\bin\as.exe
+( 8380)(    5) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+( 8380)(    5) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+( 8380) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(29940)(    3)ME: C:\MinGW\bin\gcc.exe
+(29940)(    3) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(29940)(    3) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(29940) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(29940)(    3)ME: C:\MinGW\bin\gcc.exe
+(29940)(    3) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(29940)(    3) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(29940) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(34776)(    6)ME: C:\Windows\system32\chcp.com
+(34776)(    6) + HOME: C:\Users\nryun\AppData\Local\Suresofttech\STATIC Toolbox\apps\STATIC Client for C, C++ v4.8.0\
+(34776)(    6) + WORKING: D:\VPES_Automation\VPES_Automation\src\DIRECTORT\new_test_gcc\.staticdata
+(34776) + IGNORE: msbuild xxxxx // INTEREST: cl gcc cc g++ ar link ld xxx xc8 cpp cpstm8 castm8 clnk tricore-gcc tricore-g++ ctoa etoa ecomppc elxr
+(34776)(    6) + Ignored EXENAME: chcp
